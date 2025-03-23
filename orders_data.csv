@@ -1,0 +1,8 @@
+Order ID,Date,Product Name,Category,Sales Amount,Quantity Sold,Customer Name,Customer Region,Payment Method,Discount (%),Profit
+ORD1001,01-01-2024,Laptop,Electronics,1200,2,John Doe,New York,Credit Card,10,300
+ORD1002,02-01-2024,Smartphone,Electronics,800,2,Alice Smith,California,Debit Card,5,150
+ORD1003,03-01-2024,Shoes,Fashion,100,1,Robert Brown,Texas,Cash,15,30
+ORD1004,04-01-2024,Washing Machine,Home Appliances,500,1,Emily Davis,Florida,Net Banking,8,80
+ORD1005,05-01-2024,Tablet,Electronics,300,2,Michael Lee,Illinois,UPI,10,60
+ORD1006,06-01-2024,Headphones,Accessories,50,1,Sophia Wilson,New York,Credit Card,5,15
+ORD1007,07-01-2024,Refrigerator,Home Appliances,900,1,Daniel Scott,Texas,Debit Card,12,180
